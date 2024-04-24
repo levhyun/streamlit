@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+tiktoken
+openai
+deepl
+pathlib
+youtube_transcript_api
+yt_dlp

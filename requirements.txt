@@ -6,9 +6,5 @@ deepl
 pathlib
 youtube_transcript_api
 yt_dlp
-
-
-
-
 my_image_gen
 my_text_sum
